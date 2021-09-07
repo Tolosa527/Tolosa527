@@ -26,3 +26,10 @@
 <br>
 <hr>
 <h3>Technologies</h3>
+
+<p align="center">
+  <img src="media/python.png">
+  <img src="media/django.png">
+  <img src="media/javascript.png">
+  <img src="media/git.png">
+</p>
