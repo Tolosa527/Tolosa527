@@ -28,8 +28,8 @@
 <h3>Technologies</h3>
 
 <p align="center">
-  <img src="media/python.png">
-  <img src="media/django.png">
-  <img src="media/javascript.png">
+  <img src="media/python.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="media/django.png">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="media/javascript.png">&nbsp;&nbsp;&nbsp;
   <img src="media/git.png">
 </p>
