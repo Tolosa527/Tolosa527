@@ -13,9 +13,9 @@
 <hr>
 <h3>Reach me</h3>
 <div align="center">
-  <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="https://github.com/Tolosa527/media/blob/d97f53fcaddbce17df2c5e0c1733e7e45c2a7697/linkedin.svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="https://github.com/Tolosa527/media/blob/88985807ed4693fe1d8bb82bb5e938657a7163db/instagram%20(1).svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:matiaszulberti@gmail.com"><img src="https://github.com/Tolosa527/media/blob/d97f53fcaddbce17df2c5e0c1733e7e45c2a7697/gmail.svg" hight="50px" width="45px"></a>
+  <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="media/instagram%20(1).svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:matiaszulberti@gmail.com"><img src="media/gmail.svg" hight="50px" width="45px"></a>
 </div>  
 <br>
 <hr>
