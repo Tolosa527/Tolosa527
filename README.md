@@ -4,11 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<!---
-Tolosa527/Tolosa527 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matiaszulberti/"><img src="https://github.com/Tolosa527/media/blob/d97f53fcaddbce17df2c5e0c1733e7e45c2a7697/linkedin.svg" hight="50px" width="50px"></a>
@@ -19,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 <hr>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=radical" hight="137px" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=dracula" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=algolia" height="180em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=algolia" height="180em" style="max-width: 100%;"/>
 </p>
 <br>
 <hr>
