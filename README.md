@@ -9,14 +9,19 @@ Tolosa527/Tolosa527 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![alt say hello](https://github.com/Tolosa527/media/blob/b54f3d34ce09838ef2a880bf1d0640171c686b2f/griting.gif)
 
-<a href="https://www.linkedin.com/in/matiaszulberti/">![alt linkedin](https://img.shields.io/badge/-Matias_Zulberti-blue?logo=linkedin)</a><a href="mailto:matiaszulberti@gmail.com">![alt matiaszulberti@gmail.com](https://img.shields.io/badge/-matiaszulberti@gmail.com-white?logo=gmail)</a>
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/matiaszulberti/"><img src="https://github.com/Tolosa527/media/blob/d97f53fcaddbce17df2c5e0c1733e7e45c2a7697/linkedin.svg" hight="50px" width="50px"></a>
+  <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="https://github.com/Tolosa527/media/blob/88985807ed4693fe1d8bb82bb5e938657a7163db/instagram%20(1).svg" hight="50px" width="50px"></a>
+  <a href="mailto:matiaszulberti@gmail.com"><img src="https://github.com/Tolosa527/media/blob/d97f53fcaddbce17df2c5e0c1733e7e45c2a7697/gmail.svg" hight="50px" width="50px"></a>
+</div>  
 <br>
-<hr></hr>
+<hr>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tolosa527&show_icons=true&theme=algolia) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=radical" hight="137px" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=dracula" width="400px"/>
+</p>
+<br>
+<hr>
+<br>
