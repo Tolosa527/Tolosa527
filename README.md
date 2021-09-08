@@ -33,8 +33,7 @@
 <!--- EXPERIENCE --->
 
 <p align="center">
-  <img src="media/Experience.png" height="300em" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=graywhite" height="160em" style="max-width: 100%;"/>&nbsp;
+  <img src="media/Experience.png" height="500px" style="max-width: 100%;">
 </p>
 <br>
 <hr>
@@ -44,6 +43,7 @@
 <!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=graywhite" height="180em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=default" height="180em" style="max-width: 100%;"/>&nbsp;
 </p>
 <br>
 <br>
