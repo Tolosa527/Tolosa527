@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 --->
 
+<!--- ABOUT ME SECTION --->
+
 <h3>About me</h3>
 <ul>
   <li><p>I am currently working as a Python developer. &#129311; 🐍</p></li>
@@ -13,6 +15,9 @@
 </ul>
 <br>
 <hr>
+
+<!--- REACH ME --->
+
 <h3>Reach me</h3>
 <div align="center">
   <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -28,11 +33,25 @@
 </p>
 <br>
 <hr>
-<h3>Technologies</h3>
-
-<p align="center">
-  <img src="media/python.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="media/django.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="media/javascript.png" height="70em">&nbsp;&nbsp;&nbsp;
-  <img src="media/git.png" height="70em">
-</p>
+<br>
+<!--- TECHS AND PLATFORMS --->
+ 
+<table align="center">
+  <tr>
+    <th>Technologies</th>
+    <th>Platforms</th>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="media/python.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="media/django.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
+        <img src="media/javascript.png" height="70em">&nbsp;&nbsp;&nbsp;
+        <img src="media/git.png" height="70em"> 
+      </p>
+    </td>
+   <td>
+     
+   </td>
+  </tr>
+</table>
