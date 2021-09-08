@@ -8,7 +8,7 @@
 <h3>About me</h3>
 <ul>
   <li><p>I am currently working as a Python developer. &#129311; 🐍</p></li>
-  <li><p>I am interested in microservices,web applications, APIs and could infrastructures.</p></li>
+  <li><p>I am interested in microservices, web applications, APIs, and cloud infrastructures.</p></li>
   <li><p>I am looking for collaborate on open source projects.</p></li>
 </ul>
 <br>
