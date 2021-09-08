@@ -13,6 +13,7 @@
   <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="media/instagram%20(1).svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:matiaszulberti@gmail.com"><img src="media/gmail.svg" hight="50px" width="45px"></a>
 </div>  
+<hr>
 <br>
 <br>
 <br>
@@ -36,7 +37,6 @@
   <img src="media/Experience.png" height="500px" style="max-width: 100%;">
 </p>
 <br>
-<hr>
 <br>
 
 <!--- STATS ---->
