@@ -34,7 +34,7 @@
 
 <p align="center">
   <img src="media/Experience.png" height="380em" style="max-width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=graywhite" height="170em" style="max-width: 100%;"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=graywhite" height="160em" style="max-width: 100%;"/>&nbsp;
 </p>
 <br>
 <hr>
