@@ -19,17 +19,18 @@
 </div>  
 <br>
 <hr>
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=algolia" height="180em" style="max-width: 100%;"/>&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=algolia" height="180em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=default" height="180em" style="max-width: 100%;"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=default" height="180em" style="max-width: 100%;"/>
 </p>
 <br>
 <hr>
 <h3>Technologies</h3>
 
 <p align="center">
-  <img src="media/python.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="media/django.png">&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="media/javascript.png">&nbsp;&nbsp;&nbsp;
-  <img src="media/git.png">
+  <img src="media/python.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="media/django.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="media/javascript.png" height="70em">&nbsp;&nbsp;&nbsp;
+  <img src="media/git.png" height="70em">
 </p>
