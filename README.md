@@ -43,8 +43,8 @@
 <!--- EXPERIENCE --->
 
 <p align="center">
-  <img src="media/Experience.png" height="300em" style="max-width: 100%;">
-  <img src="media/techs.gif" height="300em" style="max-width: 100%;">
+  <img src="media/Experience.png" height="270em" style="max-width: 100%;">
+  <img src="media/techs.gif" height="270em" style="max-width: 100%;">
 </p>
 <br>
 <br>
