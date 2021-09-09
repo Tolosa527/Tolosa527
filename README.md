@@ -30,16 +30,7 @@
 <hr>
 --->
 
-
-<!--- EXPERIENCE --->
-
-<p align="center">
-  <img src="media/Experience.png" height="500px" style="max-width: 100%;">
-</p>
-<br>
-<br>
-
-<!--- STATS ---->
+<!--- STATS --->
 <!---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=graywhite" height="180em" style="max-width: 100%;"/>
@@ -49,26 +40,11 @@
 <br>
 --->
 
-<!--- TECHS AND PLATFORMS --->
+<!--- EXPERIENCE --->
 
-<table align="center">
-  <tr>
-    <th>Technologies</th>
-    <th>Platforms</th>
-  </tr>
-  <tr>
-    <td>
-      <p align="center">
-        <img src="media/python.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="media/django.png" height="70em">&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="media/javascript.png" height="70em">&nbsp;&nbsp;&nbsp;
-        <img src="media/git.png" height="70em"> 
-      </p>
-    </td>
-   <td>
-     
-   </td>
-  </tr>
-</table>
-
-
+<p align="center">
+  <img src="media/Experience.png" height="300em" style="max-width: 100%;">
+  <img src="media/techs.gif" height="300em" style="max-width: 100%;">
+</p>
+<br>
+<br>
