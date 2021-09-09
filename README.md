@@ -30,16 +30,6 @@
 <hr>
 --->
 
-<!--- STATS --->
-<!---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=graywhite" height="180em" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=default" height="180em" style="max-width: 100%;"/>&nbsp;
-</p>
-<br>
-<br>
---->
-
 <!--- EXPERIENCE --->
 
 <p align="center">
@@ -48,3 +38,10 @@
 </p>
 <br>
 <br>
+
+<!--- STATS --->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=graywhite" height="180em" style="max-width: 100%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tolosa527&show_icons=true&theme=default" height="180em" style="max-width: 100%;"/>&nbsp;
+</p>
