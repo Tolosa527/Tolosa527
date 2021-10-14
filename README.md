@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 --->
 <div align="center">
-  <img src="media/banner1.png" height="350px">
+  <img src="media/banner1.png" height="250px">
 </div>
 
 <div align="right">
