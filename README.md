@@ -9,9 +9,9 @@
 </div>
 
 <div align="right">
-  <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="media/instagram%20(1).svg" hight="40px" width="45px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:matiaszulberti@gmail.com"><img src="media/gmail.svg" hight="50px" width="45px"></a>
+  <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="30px" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="media/instagram%20(1).svg" hight="30px" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:matiaszulberti@gmail.com"><img src="media/gmail.svg" hight="40px" width="35px"></a>
 </div>  
 <hr>
 <br>
@@ -33,8 +33,8 @@
 <!--- EXPERIENCE --->
 
 <p align="center">
-  <img src="media/Experience.png" height="270em" style="max-width: 100%;">
-  <img src="media/techs.gif" height="270em" style="max-width: 100%;">
+  <img src="media/Experience.png" height="250em" style="max-width: 100%;">
+  <img src="media/techs.gif" height="250em" style="max-width: 100%;">
 </p>
 <br>
 <br>
