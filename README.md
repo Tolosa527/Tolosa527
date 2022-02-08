@@ -5,13 +5,14 @@
 - 📫 How to reach me ...
 --->
 <div align="center">
-  <img src="media/banner1.png" height="250px">
-</div>
-
-<div align="right">
+  <img src="media/banner1.png" height="150px">
   <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="30px" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/zulbertimatias/?hl=en"><img src="media/instagram%20(1).svg" hight="30px" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:matiaszulberti@gmail.com"><img src="media/gmail.svg" hight="40px" width="35px"></a>
+</div>
+
+<div align="right">
+  
 </div>  
 <hr>
 <br>
