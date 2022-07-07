@@ -1,9 +1,4 @@
-<!--- - 👋 Hi, I’m @Tolosa527
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+
 <div align="center">
   <img src="media/banner1.png" height="150px">
   <a style="margin-right:100px" href="https://www.linkedin.com/in/matiaszulberti/"><img src="media/linkedin.svg" hight="30px" width="35px"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +29,7 @@
 <!--- EXPERIENCE --->
 
 <p align="center">
-  <img src="media/Experience.png" height="250em" style="max-width: 100%;">
+  <img src="media/timeline.png" height="250em" style="max-width: 100%;">
   <img src="media/techs.gif" height="250em" style="max-width: 100%;">
 </p>
 <br>
