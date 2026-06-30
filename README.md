@@ -17,19 +17,16 @@
   </a>
 </p>
 
-<p align="center">
-  
+<div>
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
     height="150"
-    width="%50"
   />
-
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight"
     height="150"
   />
-</p>
+</div>
 
 ## About me
 
