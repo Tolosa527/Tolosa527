@@ -18,8 +18,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight"
+    height="180"
+  />
 </p>
 
 ## About me
