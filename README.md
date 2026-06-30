@@ -18,8 +18,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tolosa527&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=transparent&hide_border=true" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight" />
 </p>
 
 ## About me
