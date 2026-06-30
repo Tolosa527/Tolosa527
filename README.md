@@ -20,10 +20,12 @@
 <p align="center">
   <img 
     width="400"
+    height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
   />
   <img 
     width="300"
+    height="150"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight"
   />
 </p>
