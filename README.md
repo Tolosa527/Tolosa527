@@ -18,9 +18,11 @@
 </p>
 
 <p align="center">
+  
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
     height="150"
+    width="%50"
   />
 
   <img 
