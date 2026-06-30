@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<div style="align-items: center">
+<div style="display: flex; justify-content: center;">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
     height="150"
