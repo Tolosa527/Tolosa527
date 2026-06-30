@@ -17,16 +17,16 @@
   </a>
 </p>
 
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img 
+    width="400"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tolosa527&show_icons=true&theme=tokyonight"
-    height="150"
   />
   <img 
+    width="300"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tolosa527&layout=compact&theme=tokyonight"
-    height="150"
   />
-</div>
+</p>
 
 ## About me
 
